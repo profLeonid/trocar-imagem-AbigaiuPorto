@@ -2,7 +2,10 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    
 }
+
+
 
 body{
     display: flex;
@@ -10,6 +13,8 @@ body{
     justify-content: center;
     align-items: center;
     gap: 16px;
+    background-color: rgb(179, 232, 232);
+   
 }
 
 img{
